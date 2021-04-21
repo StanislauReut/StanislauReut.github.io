@@ -49,4 +49,4 @@ addLabel.text = NSLocalizedString(“mood_Add_details”, comment: «")
     }
 }
 6. “iOS Developer” TeachMeSkills
-7. A2
+7.  A2
